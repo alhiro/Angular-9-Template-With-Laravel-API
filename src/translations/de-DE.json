@@ -1,0 +1,16 @@
+{
+  "APP_NAME": "RekamMedis",
+  "About": "Über",
+  "Hello world !": "Hallo welt !",
+  "Home": "Hause",
+  "Logged in as": "Angemeldet als",
+  "Login": "Anmelden",
+  "Logout": "Abmelden",
+  "Password": "Passwort",
+  "Password is required": "Passwort wird benötigt",
+  "Username": "Benutzername",
+  "Username is required": "Benutzername wird benötigt",
+  "Username or password incorrect.": "Benutzername oder Passwort falsch.",
+  "Remember me": "Eingeloggt bleiben",
+  "Version": "Version"
+}

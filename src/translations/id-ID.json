@@ -1,0 +1,18 @@
+{
+  "APP_NAME": "HaiAdmin",
+  "About": "Tentang Kami",
+  "Hello world !": "Halo Dunia !",
+  "Home": "Beranda",
+  "Hi": "Hallo",
+  "Profile": "Profil Saya",
+  "Inbox": "Kotak Masuk",
+  "Login": "Masuk",
+  "Logout": "Keluar",
+  "Password": "Kata sandi",
+  "Password is required": "Kata sandi dibutuhkan",
+  "Username": "Nama pengguna",
+  "Username is required": "Nama pengguna dibutuhkan",
+  "Username or password incorrect.": "Nama pengguna atau kata sandi salah.",
+  "Remember me": "Ingat saya",
+  "Version": "Versi"
+}

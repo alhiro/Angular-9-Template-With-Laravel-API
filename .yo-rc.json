@@ -1,0 +1,50 @@
+{
+  "generator-ngx-rocket": {
+    "version": "8.1.0",
+    "props": {
+      "location": "path",
+      "strict": false,
+      "skipInstall": false,
+      "skipQuickstart": false,
+      "initGit": true,
+      "usePrefix": true,
+      "appName": "RekamMedis",
+      "target": [
+        "web",
+        "cordova",
+        "electron"
+      ],
+      "pwa": true,
+      "mobile": [
+        "ios",
+        "android"
+      ],
+      "desktop": [
+        "windows",
+        "mac",
+        "linux"
+      ],
+      "ui": "bootstrap",
+      "auth": true,
+      "lazy": true,
+      "angulartics": false,
+      "languages": [
+        "de-DE",
+        "en-US",
+        "id-ID"
+      ],
+      "tools": [
+        "prettier",
+        "hads",
+        "jest"
+      ],
+      "utility": [
+        "lodash",
+        "moment"
+      ],
+      "deploy": "none",
+      "projectName": "rekam-medis",
+      "packageManager": "npm"
+    }
+  }
+}
