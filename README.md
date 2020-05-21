@@ -1,7 +1,6 @@
 # RekamMedis
 
-This project was generated with [ngX-Rocket](https://github.com/ngx-rocket/generator-ngx-rocket/)
-version 8.1.0
+version 1.0.0
 
 # Getting started
 
